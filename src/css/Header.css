@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+}
+.link{
+    padding: 20px;
+    color: black;
+    font-weight: 500;
+    transition: color 0.1s;
+    transition-timing-function:ease-in-out;
+}
+.link:hover{
+    color:#F4CE14;
+}
+ul{
+    list-style: none;
+    margin-left: 45px;
+}
