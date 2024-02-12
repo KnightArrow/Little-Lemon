@@ -15,7 +15,7 @@ a{
     text-decoration: none;
 }
 .link{
-    padding: 20px;
+    margin: 20px;
     color: black;
     font-weight: 500;
     transition: color 0.1s;
